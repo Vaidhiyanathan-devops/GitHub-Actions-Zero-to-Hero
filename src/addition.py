@@ -1,3 +1,4 @@
+#This is anew commit changes to check Github actions
 # app.py
 # This is a test commit
 def add(a, b):
