@@ -1,5 +1,3 @@
-# app.py
-#RAWAGENT
 def add(a, b):
     return a + b
 
